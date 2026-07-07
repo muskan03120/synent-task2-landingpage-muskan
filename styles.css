@@ -789,6 +789,14 @@ h2 {
   .button {
     width: 100%;
   }
+  
+.hero-actions {
+  gap: 16px;
+}
+
+.button {
+  padding: 14px 20px;
+}
 
   .preview-grid {
     grid-template-columns: 1fr;

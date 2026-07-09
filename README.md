@@ -253,6 +253,9 @@ To make it functional in a real project:
 ### Footer
 ![Footer](screenshots/footer.png)
 
+### Mobile View
+|[Mobile View](screenshots/mobile-view.png)
+
 ---
 
 ## Getting Started

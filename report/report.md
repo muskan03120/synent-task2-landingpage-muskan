@@ -119,7 +119,7 @@ See the `screenshots/` folder for:
 - `features.png` — 9-card features grid
 - `contact.png` — Contact form and details
 - `footer.png` — Footer with links
-
+- 'mobile-view.png' - Mobile View
 ---
 
 *Muskan — Synent Internship Task 2 — July 2026*
